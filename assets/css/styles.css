@@ -284,7 +284,9 @@ img{
     font-size: 1.25rem;
 }
 /* Active link */
-
+.active-link{
+    color: var(--first-color);
+}
 
 /* Change background header */
 
